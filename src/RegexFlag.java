@@ -1,0 +1,8 @@
+WeChat: cstutorcs
+QQ: 749389476
+Email: tutorcs@163.com
+
+
+public enum RegexFlag {
+    END_OF_PHRASE, ANY, AT_BOL, CCL_END, CCL_START, CLOSE_PAREN, CLOSURE, DASH, END_OF_WHOLE, DEFAULT_CHAR, OPEN_PAREN, OPTIONAL, OR, PLUS_CLOSE
+};
